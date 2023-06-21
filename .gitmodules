@@ -1,0 +1,3 @@
+[submodule "Account-Management-System"]
+	path = Account-Management-System
+	url = https://github.com/TheSaviourEking/Account-Management-System.git
